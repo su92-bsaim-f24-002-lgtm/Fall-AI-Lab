@@ -1,3 +1,7 @@
+ABDULLAH
+SU92-BSAIM-F24-02
+BSAI-3A
+
 class HangmanGame:
     def __init__(self, word):
         self.word = word.upper()                          
